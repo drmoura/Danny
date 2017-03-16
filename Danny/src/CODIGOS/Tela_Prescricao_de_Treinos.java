@@ -11,12 +11,12 @@ import java.awt.Dimension;
  *
  * @author Mael
  */
-public class Tela_Interna extends javax.swing.JInternalFrame {
+public class Tela_Prescricao_de_Treinos extends javax.swing.JInternalFrame {
 
     /**
      * Creates new form Tela_Interna
      */
-    public Tela_Interna() {
+    public Tela_Prescricao_de_Treinos() {
         initComponents();
     }
 
